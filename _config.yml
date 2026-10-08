@@ -1,13 +1,13 @@
-title: Website title
+title: Biodata_IG_Services_Testpage
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: Website title
+topnav_title: Biodata IG Services Testpage
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
+description: "We test how easy we can reuse the ETT Theme for the Biodata IG group"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@6.0.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@7.0.0
 
 exclude:
   - README.md
@@ -55,7 +55,7 @@ theme_variables:
     # bluesky: false
     # linkedin: false
     # fosstodon: false
-  # theme_color: 0d6efd
+  theme_color: BDCE18
   # fonts:
   #   - url towards a font
 
